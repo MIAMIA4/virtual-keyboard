@@ -1,0 +1,112 @@
+.text__area{
+    height: 100px;
+    width: 1000px;
+    margin-bottom: 20px;
+}
+
+#keyboard {
+    display: block;
+    width: max-content;
+    border: 2px solid black;
+    padding: 5px;
+    overflow: auto;
+    user-select: none;
+}
+
+.keyboard__key{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    margin: 3px;
+    padding: 3px;
+    float: left;
+}
+
+.next__row {
+    clear: both;
+}
+
+.Backspace {
+    width: 75px;
+    height: 50px;
+    border: 1px solid black;
+    padding: 3px;
+    margin: 3px;
+    float: left;
+}
+
+.Tab {
+    width: 75px;
+    height: 50px;
+    border: 1px solid black;
+    padding: 3px;
+    margin: 3px;
+    float: left;
+}
+
+.CapsLock {
+    width: 95px;
+    height: 50px;
+    border: 1px solid black;
+    padding: 3px;
+    margin: 3px;
+    float: left;
+}
+
+.Enter {
+    width: 95px;
+    height: 50px;
+    border: 1px solid black;
+    padding: 3px;
+    margin: 3px;
+    float: left;
+}
+
+.Shift {
+    width: 95px;
+    height: 50px;
+    border: 1px solid black;
+    padding: 3px;
+    margin: 3px;
+    float: left;
+}
+
+.Enter {
+    width: 95px;
+    height: 50px;
+    border: 1px solid black;
+    padding: 3px;
+    margin: 3px;
+    float: left;
+}
+
+.up {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    margin: 3px;
+    padding: 3px;
+    float: left;
+}
+
+.Control, .Win, .Alt, .left, .down, .right {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    margin: 3px;
+    padding: 3px;
+    float: left; 
+}
+
+.Space{
+    width: 351px;
+    height: 50px;
+    border: 1px solid black;
+    margin: 3px;
+    padding: 3px;
+    float: left; 
+}
+
+.active{
+    background: linear-gradient(rgb(168, 3, 155), rgb(189, 11, 41));
+}
