@@ -26,7 +26,7 @@
     clear: both;
 }
 
-.backspace {
+.Backspace {
     width: 75px;
     height: 50px;
     border: 1px solid black;
@@ -35,7 +35,7 @@
     float: left;
 }
 
-.tab {
+.Tab {
     width: 75px;
     height: 50px;
     border: 1px solid black;
@@ -44,7 +44,7 @@
     float: left;
 }
 
-.caps {
+.CapsLock {
     width: 95px;
     height: 50px;
     border: 1px solid black;
@@ -53,7 +53,7 @@
     float: left;
 }
 
-.enter {
+.Enter {
     width: 95px;
     height: 50px;
     border: 1px solid black;
@@ -62,7 +62,7 @@
     float: left;
 }
 
-.shift {
+.Shift {
     width: 95px;
     height: 50px;
     border: 1px solid black;
@@ -71,7 +71,7 @@
     float: left;
 }
 
-.enter {
+.Enter {
     width: 95px;
     height: 50px;
     border: 1px solid black;
@@ -89,7 +89,7 @@
     float: left;
 }
 
-.ctrl, .win, .alt, .left, .down, .right {
+.Control, .Win, .Alt, .left, .down, .right {
     width: 50px;
     height: 50px;
     border: 1px solid black;
@@ -98,7 +98,7 @@
     float: left; 
 }
 
-.space{
+.Space{
     width: 351px;
     height: 50px;
     border: 1px solid black;
